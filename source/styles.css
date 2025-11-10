@@ -25,6 +25,10 @@ body {
 }
 
 .app-header h1 {
+  font-family: "Ysabeau SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   font-size: 2.5rem;
   margin-bottom: 10px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
@@ -222,6 +226,10 @@ body {
 }
 
 .photo-strip-header h2 {
+  font-family: "Ysabeau SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   color: #333;
   font-size: 1.8rem;
 }
@@ -299,6 +307,10 @@ body {
 }
 
 .color-palette h3 {
+  font-family: "Ysabeau SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
   font-size: 1rem;
   color: #333;
   margin: 0;
